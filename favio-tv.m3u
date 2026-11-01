@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3y3eVJc.png" group-title="PERU 37 CANALES",PERU - LATINA
+http://PON_AQUI_TU_LINK_PERU_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3y3eVJc.png" group-title="COLOMBIA 41 CANALES",COLOMBIA - CARACOL
+http://PON_AQUI_TU_LINK_COLOMBIA_1.m3u8
+#EXTINF:-1 group-title="ARGENTINA",ARGENTINA - TELEFE
+http://PON_AQUI_TU_LINK_ARGENTINA_1.m3u8
+#EXTINF:-1 group-title="PELICULAS",PELICULA - ESTRENO 2024
+http://PON_AQUI_TU_LINK_PELI_1.mp4
